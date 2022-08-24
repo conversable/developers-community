@@ -1066,7 +1066,7 @@
             - subpagename: Customizing Toast Notifications
             - subpagename: FAQ
             - subpagename: Open Source List
-    - documentname: Apple Business Chat SDK
+    - documentname: Apple Messages for Business SDK
       pages:
         - pagename: Overview
         - pagename: Installation
@@ -1204,7 +1204,7 @@
             - subpagename: Application Login
             - subpagename: Refresh
             - subpagename: Logout
-    - documentname: Apple Business Chat Authentication
+    - documentname: Apple Messages for Business Authentication
       pages:
         - pagename: Overview
     - documentname: MTLS

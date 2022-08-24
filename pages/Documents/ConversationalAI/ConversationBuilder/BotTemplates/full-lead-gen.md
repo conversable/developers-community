@@ -95,7 +95,7 @@ Navigate to **Global Functions**.
 
 <img class="fancyimage" style="width:750px" src="img/ConvoBuilder/template_full_lead_image_7.png">
 
-The first thing our functions do is to get the particular channel the user is coming from. If you would like to force the channel to make the AMB or SMS option dialogs appear, you can set the channel variable to the following:
+The first thing our functions do is to get the particular channel the user is coming from. If you would like to force the channel to make the Apple Messages for Business or SMS option dialogs appear, you can set the channel variable to the following:
 
 ```javascript
 // What channel is the user on? If you'd like to force the display of a particular channel's content, 
@@ -137,7 +137,7 @@ Options are set to be shown by default, but if you don’t want them to be shown
  <td>If you want to display the Product or Service options to your customer, set this to "on". Otherwise, set to “off”. </td>
  </tr>
  <tr>
- <td>The following are for web client users only. AMB and SMS will be shown automatically.</td>
+ <td>The following are for web client users only. Apple Messages for Business and SMS will be shown automatically.</td>
  <td></td>
  </tr>
  <tr>

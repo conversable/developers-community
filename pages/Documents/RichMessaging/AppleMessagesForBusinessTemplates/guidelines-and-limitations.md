@@ -1,8 +1,8 @@
 ---
 pagename: Guidelines and Limitations
 redirect_from:
-  - rich-messaging-apple-business-chat-templates-guidelines-and-limitations.html
-  - structured-content-apple-business-chat-templates-guidelines-and-limitations.html
+  - rich-messaging-apple-messages-for-business-templates-guidelines-and-limitations.html
+  - structured-content-apple-messages-for-business-templates-guidelines-and-limitations.html
 Keywords:
 sitesection: Documents
 categoryname: "Rich Messaging"
